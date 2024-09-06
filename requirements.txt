@@ -18,13 +18,11 @@ Flask-SQLAlchemy==3.0.3
 Flask-WTF==1.1.1
 frozenlist==1.3.3
 greenlet==2.0.2
-gunicorn==22.0.0
 idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.2.0
-# Thay đổi phiên bản hoặc thay thế lxml nếu cần
-lxml==4.6.3
+lxml==4.9.3
 MarkupSafe==2.1.3
 multidict==6.0.4
 nltk==3.8.1
