@@ -22,12 +22,7 @@ idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.2.0
-<<<<<<< HEAD
 lxml==4.9.3
-=======
-# Thay đổi phiên bản hoặc thay thế lxml nếu cần
-lxml==4.9.2
->>>>>>> c80a9605dcef58265fd7ffea6748b6583e189e64
 MarkupSafe==2.1.3
 multidict==6.0.4
 nltk==3.8.1
